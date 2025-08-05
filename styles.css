@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.center{
+	text-align: center
+}
+.right{
+	text-align: right
+}
+.green{
+	background-color: green
+}
+.blue{
+	background-color: blue
+}
